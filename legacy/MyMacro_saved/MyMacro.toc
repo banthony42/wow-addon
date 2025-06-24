@@ -1,0 +1,7 @@
+## Interface: 90105
+## Title: MyMacro
+## Notes: Basic import / export of macro characater using global macro area.
+## Version: 1.0.0
+## Author: banthony
+
+core.lua

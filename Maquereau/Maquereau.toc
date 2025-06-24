@@ -1,0 +1,8 @@
+## Interface: 11501
+## Title: Maquereau
+## Notes: WoW Vanilla basic import / export of macro characater using global macro area.
+## SavedVariables: MacroLookupTable
+## Version: 1.0.0
+## Author: banthony
+
+core.lua
